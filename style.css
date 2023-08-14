@@ -9,6 +9,9 @@
     margin-right: 50%;
     background-color: #fff;
 }
+.textoPerfil{
+    text-align: justify;
+}
 .colorRedes{
  color: #fff;
  text-decoration: none;
